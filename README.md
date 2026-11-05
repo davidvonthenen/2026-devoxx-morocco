@@ -74,9 +74,7 @@ The workshop will consist of 4 sections. Each section will have a series of hand
   - Part 3: [Exploring Graph Retrieval](./demos/06_graph_retrieval/README.md)
 
 - Section 3: What Is Hybrid RAG?
-  - Part 1: [How Data Feeds Inference](./demos/07_hybrid_bm25_vector_instaclustr/README.md)
-  - Part 2: [Decouple Data & Inference](./demos/08_hybrid_graph_vector_retrieval/README.md)
+  - Part 1: [Decouple Data & Inference](./demos/07_hybrid_graph_vector_retrieval/README.md)
 
 - Section 4: Fact-based Answers Wrapped in AI Governance
-  - Part 1: [Answers with Governance](./demos/09_hybrid_rag_graph_vector/README.md)
-  - Part 2: [The "Crazy" Architecture](./demos/10_hybrid_rag_graph_vector_instaclustr/README.md)
+  - Part 1: [Answers with Governance](./demos/08_hybrid_rag_graph_vector/README.md)
